@@ -1,0 +1,11 @@
+.myTextArea {
+  box-shadow: rgba(0, 0, 0, 0.1) 0 0 0 1px inset;
+  border-radius: 4px;
+  line-height: 20px;
+  resize: auto;
+  cursor: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  width: 100%;
+  flex: auto !important;
+}
