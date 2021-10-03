@@ -2,9 +2,6 @@
 
 REST API with JWT Authentication build with Node.js + Express.js and writen in TypeScript
 
-## Usage
-
-Repo in Bitbucket - [https://bitbucket.org/ClearlyInnovative/workspace/projects/ESYNC](https://bitbucket.org/ClearlyInnovative/workspace/projects/ESYNC)
 
 ## Server Description
 
